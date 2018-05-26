@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/t3rabyt3/Direc8ak/License) ![OS](https://img.shields.io/badge/Tested%20On-Linux%20|%20OSX%20|%20Android-yellowgreen.svg?style=flat-square) [![Dirb](https://img.shields.io/badge/Python-2.7-green.svg?style=flat-square)](http://dirb.sourceforge.net/) [![Python3](https://img.shields.io/badge/Python-3-green.svg?style=flat-square)](https://github.com/Manisso/fsociety/tree/python3) ![Docker](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?style=flat-square)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/t3rabyt3/Direc8ak/License) ![OS](https://img.shields.io/badge/Tested%20On-Linux%20|%20OSX%20|%20Android-yellowgreen.svg?style=flat-square) [![Dirb](https://img.shields.io/badge/Python-2.7-green.svg?style=flat-square)](http://dirb.sourceforge.net/)
 
 # Direc8ak -- Automated Directory Attacker
 
