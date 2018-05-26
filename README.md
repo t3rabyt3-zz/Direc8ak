@@ -29,7 +29,7 @@ sudo ./Direc8ak.sh
 
 Follow This Video on [YouTube](https://www.youtube.com/channel/UCzsqlsCIKuVWFDDyfngH4qw)
 
-## Installation
+## Installation [Android]
 
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
