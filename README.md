@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/t3rabyt3/Direc8ak/License) ![OS](https://img.shields.io/badge/Tested%20On-Linux%20|%20OSX%20|%20Android-yellowgreen.svg?style=flat-square) [![Dirb](https://img.shields.io/badge/Python-2.7-green.svg?style=flat-square)](http://dirb.sourceforge.net/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/t3rabyt3/Direc8ak/License) ![OS](https://img.shields.io/badge/Tested%20On-Linux%20|%20OSX%20|%20Android-yellowgreen.svg?style=flat-square) ![Dirb](https://img.shields.io/david/expressjs/express.svg)
 
 # Direc8ak -- Automated Directory Attacker
 
@@ -59,4 +59,3 @@ None yet. But I like would liek to invite everyone for your contributions. Pleas
 # License
 
 [MIT Licence](https://github.com/t3rabyt3/Direc8ak/License)
-
