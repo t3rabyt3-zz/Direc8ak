@@ -41,11 +41,6 @@ Follow This Video [YouTube](https://www.youtube.com/channel/UCzsqlsCIKuVWFDDyfng
 
 
 
-
-# Visit Our Social Network :kissing_heart:
-
-[TeraByte](https://instagram.com/1024gigabyte)
-
 # Screenshots
 
 [![asciicast](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz.png)](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz)
