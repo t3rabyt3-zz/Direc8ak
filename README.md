@@ -29,7 +29,7 @@ sudo ./Direc8ak.sh
 
 Follow This Video on [YouTube](https://www.youtube.com/channel/UCzsqlsCIKuVWFDDyfngH4qw)
 
-## Installation [Android]
+## Installation [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) [![alt tag](http://icons.iconarchive.com/icons/martz90/circle/32/android-icon.png)](https://fr.wikipedia.org/wiki/Android_(operating_system))
 
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
